@@ -16,9 +16,9 @@ O sistema armazenará um registro de corridas a pagar e a receber, independente 
 
 Cada carro poderá receber três passageiros, além do motorista. As corridas podem ser agendadas em 4 horários:
 
-ida para UFCG: `7:30`, `9:30`, `13:30`, `15:30`
-saída da UFCG: `10:00`, `12:00`, `16:00`, `18:00`
-Para simplificar, assuma que todas as corridas acontecem todos os dias da semana, no horário agendado.
+ida para UFCG: `7:30`, `9:30`, `13:30`, `15:30` <br>
+saída da UFCG: `10:00`, `12:00`, `16:00`, `18:00` <br>
+Para simplificar, assuma que todas as corridas acontecem todos os dias da semana, no horário agendado. 
 
 Considere apenas 5 regiões: `Centro`, `Leste`, `Oeste`, `Norte` e `Sul`
 
@@ -28,4 +28,4 @@ Considere apenas 5 regiões: `Centro`, `Leste`, `Oeste`, `Norte` e `Sul`
 
 ## 📃 Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
